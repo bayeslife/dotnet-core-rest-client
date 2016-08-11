@@ -5,7 +5,7 @@ This is some sample code to validate that a REST client can run as a client on a
 # Running
 After cloning run
 
-dotnet restore
+dotnet restore  
 dotnet run
 
 # Aim
